@@ -2,6 +2,10 @@
 
 A (slow) programming language interpreter in Python.
 
+`main.py` playground requires `rich` module. You can edit it.
+
+**W.I.P error messages**
+
 ## How to lex
 
 > main.py
